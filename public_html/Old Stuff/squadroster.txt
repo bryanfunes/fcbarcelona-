@@ -1,0 +1,40 @@
+current squad
+
+No.		Position	Player
+1	Germany	GK	Marc-André ter Stegen
+2	Brazil	DF	Douglas
+3	Spain	DF	Gerard Piqué
+4	Croatia	MF	Ivan Rakitić
+5	Spain	MF	Sergio Busquets (3rd captain)
+6	Brazil	DF	Dani Alves
+8	Spain	MF	Andrés Iniesta (captain)
+9	Uruguay	FW	Luis Suárez
+10	Argentina	FW	Lionel Messi (vice-captain)
+11	Brazil	FW	Neymar
+12	Brazil	MF	Rafinha
+13	Chile	GK	Claudio Bravo
+No.		Position	Player
+14	Argentina	MF	Javier Mascherano (4th captain)
+15	Spain	DF	Marc Bartra
+17	Spain	FW	Munir El Haddadi
+18	Spain	DF	Jordi Alba
+19	Spain	FW	Sandro Ramírez
+20	Spain	MF	Sergi Roberto
+21	Brazil	DF	Adriano
+23	Belgium	DF	Thomas Vermaelen
+24	France	DF	Jérémy Mathieu
+25	Spain	GK	Jordi Masip
+—	Turkey	MF	Arda Turan
+—	Spain	MF	Aleix Vidal
+players on loan
+
+No.		Position	Player
+—	Senegal	DF	Diawandou Diagne (at Eupen until 30 June 2016)
+—	Spain	DF	Martín Montoya (at Internazionale until 30 June 2016)
+—	Spain	DF	Lucas Gafarot (at Cornellà until 30 June 2016)
+—	Portugal	MF	Agostinho Cá (at Lleida Esportiu until 30 June 2016)
+No.		Position	Player
+—	Cameroon	MF	Alex Song (at West Ham United until 30 June 2016)
+—	Croatia	MF	Alen Halilović (at Sporting Gijón until 30 June 2016)
+—	Spain	MF	Joel Huertas (at Lleida Esportiu until 30 June 2016)
+—	Spain	FW	Cristian Tello (at Porto until 30 June 2016)

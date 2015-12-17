@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+@import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Creepster);
+@import url(https://fonts.googleapis.com/css?family=Frijole);
+@import url(https://fonts.googleapis.com/css?family=Spicy+Rice);
+body { 
+    background-image: url('pics/background_seagreen.png');
+    background-attachment: fixed;
+font-family: Bangers; }
+}
+.Bangers{
+	font-family: Bangers;
+}
+.ArchitectsDaughter{
+	font-family:Architects Daughter;
+}
+.lobster{
+	font-family: Lobster;
+}
+.frijole{
+	font-family: Frijole;
+}
+.creepster{
+	font-family: Creepster;
+}
+.spicyrice{
+	font-family: Spicy Rice;
+}	
+
+	
+	
